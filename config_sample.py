@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7588225994:AAEOKAFBE6dpD9R8imsxdDLkLPQndaHpQ5w"
+OWNER_ID = 1947565279
+TELEGRAM_API = 26750159
+TELEGRAM_HASH = "fd147a9808d7a294a4864e28a8cea47d"
+DATABASE_URL = "mongodb+srv://vivak:password1234@cluster0.pes6qpq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "Cinemaa_Boxoffice"
+AUTHOR_URL = "https://t.me/cinemaa_Boxoffice"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -103,13 +103,13 @@ TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GD_DESP = "Uploaded with CB Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
 
 # YT Tools
-YT_DESP = "Uploaded to YouTube by WZML-X bot"
+YT_DESP = "Uploaded to YouTube by CINEMAA_BOXOFFICE bot"
 YT_TAGS = ["telegram", "bot", "youtube"]  # or as a comma-separated string
 YT_CATEGORY_ID = 22
 YT_PRIVACY_STATUS = "unlisted"
@@ -151,7 +151,7 @@ USENET_SERVERS = [
 
 # Update
 UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
 # Leech
